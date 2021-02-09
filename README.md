@@ -9,7 +9,7 @@ A game developer with front-end and back-end experience.
 
 **🐱 My Github Data** 
 
-> 🏆 89 Contributions in the Year 2021
+> 🏆 88 Contributions in the Year 2021
  > 
 > 📦 1.7 MB Used in Github's Storage 
  > 
