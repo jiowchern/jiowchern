@@ -4,7 +4,7 @@ A game developer with front-end and back-end experience.
 
 ### Stats  📝
 [![visitor](https://visitor-badge.glitch.me/badge?page_id=jiowchern.jiowchern&style=flat-square&color=0088cc)](https://visitor-badge.glitch.me/badge?page_id=jiowchern.jiowchern&style=flat-square&color=0088cc)  
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiowchern&count_private=true)](https://github.com/anuraghazra/github-readme-stats)  
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jiowchern&count_private=true&&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)  
 [![trophy](https://github-profile-trophy.vercel.app/?username=jiowchern)](https://github.com/ryo-ma/github-profile-trophy)  
 
 
