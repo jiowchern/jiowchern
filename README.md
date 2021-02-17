@@ -11,13 +11,13 @@ A game developer with front-end and back-end experience.
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
-> 🏆 93 Contributions in the Year 2021
+> 🏆 95 Contributions in the Year 2021
  > 
 > 📦 1.7 MB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
-> 📜 35 Public Repositories 
+> 📜 36 Public Repositories 
  > 
 > 🔑 3 Private Repositories  
  > 
