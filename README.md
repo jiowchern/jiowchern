@@ -51,16 +51,17 @@ Sunday       91 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       1 min               ██████████████████████░░░   88.62% 
+Other                    0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   11.38%
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            2 mins              █████████████████████████   100.0%
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Regulus                  2 mins              █████████████████████████   100.0%
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 mins              █████████████████████████   100.0%
 
 ```
 
