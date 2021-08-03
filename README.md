@@ -12,6 +12,8 @@ A game developer with front-end and back-end experience.
 <!--START_SECTION:waka-->
 **🐱 My Github Data** 
 
+> 🏆 259 Contributions in the Year 2021
+ > 
 > 📦 1.7 MB Used in Github's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -49,17 +51,16 @@ Sunday       99 commits     ████░░░░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Other                    10 mins             ████████████████████████░   99.19% 
-C#                       0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.81%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Regulus.Remote.Tools.Prot10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  10 mins             █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
