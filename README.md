@@ -10,6 +10,8 @@ A game developer with front-end and back-end experience.
 
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%2049%20mins-blue)
+
 **🐱 My GitHub Data** 
 
 > 🏆 21 Contributions in the Year 2022
@@ -51,17 +53,16 @@ Sunday       99 commits     ███████░░░░░░░░░░�
 ⌚︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-C#                       2 mins              ████████████████████████░   95.54% 
-Other                    0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   4.46%
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Regulus.Samples.Chat1.Uni2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  2 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -77,7 +78,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 07/02/2022 18:39:47 UTC
+ Last Updated on 07/02/2022 18:41:34 UTC
 <!--END_SECTION:waka-->
 
 
