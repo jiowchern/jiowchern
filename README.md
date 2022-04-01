@@ -10,11 +10,9 @@ A game developer with front-end and back-end experience.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-261%20hrs%2018%20mins-blue)
-
 **🐱 My GitHub Data** 
 
-> 🏆 65 Contributions in the Year 2022
+> 🏆 66 Contributions in the Year 2022
  > 
 > 📦 1.7 MB Used in GitHub's Storage 
  > 
@@ -29,8 +27,8 @@ A game developer with front-end and back-end experience.
 ```text
 🌞 Morning    31 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.2% 
 🌆 Daytime    51 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.78% 
-🌃 Evening    123 commits    ██████████░░░░░░░░░░░░░░░   40.46% 
-🌙 Night      99 commits     ████████░░░░░░░░░░░░░░░░░   32.57%
+🌃 Evening    122 commits    ██████████░░░░░░░░░░░░░░░   40.13% 
+🌙 Night      100 commits    ████████░░░░░░░░░░░░░░░░░   32.89%
 
 ```
 📅 **I'm Most Productive on Sunday** 
@@ -86,7 +84,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 31/03/2022 18:45:32 UTC
+ Last Updated on 01/04/2022 18:43:59 UTC
 <!--END_SECTION:waka-->
 
 
