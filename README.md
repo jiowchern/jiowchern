@@ -10,7 +10,7 @@ A game developer with front-end and back-end experience.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2026%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-378%20hrs%2031%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -85,7 +85,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 13/05/2022 11:33:53 UTC
+ Last Updated on 13/05/2022 11:35:32 UTC
 <!--END_SECTION:waka-->
 
 
