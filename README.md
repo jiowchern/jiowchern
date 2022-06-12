@@ -12,18 +12,19 @@ A game developer with front-end and back-end experience.
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-407%20hrs%201%20min-blue)
 
-**📊 My GitHub data** 
+**🐱 My GitHub Data** 
 
-```text
-🏆 112 contributions in 2022
-
-📦 1.8 MB used in GitHub's storage 
-
-📜 47 Public Repositories 
-
-🔑 3 Private Repositories  
+> 🏆 112 Contributions in the Year 2022
  > 
-**I'm a night 🦉** 
+> 📦 1.8 MB Used in GitHub's Storage 
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 47 Public Repositories 
+ > 
+> 🔑 3 Private Repositories  
+ > 
+**I'm a Night 🦉** 
 
 ```text
 🌞 Morning    34 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.56% 
@@ -32,7 +33,7 @@ A game developer with front-end and back-end experience.
 🌙 Night      98 commits     ███████░░░░░░░░░░░░░░░░░░   30.43%
 
 ```
-📅 **I'm most productive on Sunday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
 Monday       37 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   11.49% 
@@ -46,7 +47,7 @@ Sunday       102 commits    ████████░░░░░░░░░�
 ```
 
 
-📊 **This week I spent my time on** 
+📊 **This Week I Spent My Time On** 
 
 ```text
 ⌚︎ Time Zone: Asia/Taipei
@@ -71,7 +72,7 @@ Windows                  6 hrs 32 mins       ███████████�
 
 ```
 
-**💻 I mostly code in C#** 
+**I Mostly Code in C#** 
 
 ```text
 C#                       35 repos            ██████████████████████░░░   89.74% 
@@ -83,7 +84,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 08:13:09 UTC
+ Last Updated on 12/06/2022 08:14:36 UTC
 <!--END_SECTION:waka-->
 
 
