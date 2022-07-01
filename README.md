@@ -20,9 +20,9 @@ A game developer with front-end and back-end experience.
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 47 Public Repositories 
+> 📜 48 Public Repositories 
  > 
-> 🔑 3 Private Repositories  
+> 🔑 2 Private Repositories  
  > 
 **I'm a Night 🦉** 
 
@@ -80,7 +80,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/07/2022 08:24:43 UTC
+ Last Updated on 01/07/2022 08:26:43 UTC
 <!--END_SECTION:waka-->
 
 
