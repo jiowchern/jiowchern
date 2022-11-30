@@ -10,7 +10,7 @@ A game developer with front-end and back-end experience.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-778%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-778%20hrs%2014%20mins-blue)
 
 **🐱 My GitHub Data** 
 
@@ -84,7 +84,7 @@ ShaderLab                1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/11/2022 07:23:54 UTC
+ Last Updated on 30/11/2022 07:26:04 UTC
 <!--END_SECTION:waka-->
 
 
