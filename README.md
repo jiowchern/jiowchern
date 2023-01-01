@@ -14,7 +14,7 @@ A game developer with front-end and back-end experience.
 
 **🐱 My GitHub Data** 
 
-> 🏆 124 Contributions in the Year 2022
+> 🏆 0 Contributions in the Year 2023
  > 
 > 📦 1.8 MB Used in GitHub's Storage 
  > 
@@ -87,7 +87,7 @@ ShaderLab                1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2023 00:15:40 UTC
+ Last Updated on 01/01/2023 00:17:18 UTC
 <!--END_SECTION:waka-->
 
 
