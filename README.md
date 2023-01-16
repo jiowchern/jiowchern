@@ -16,7 +16,7 @@ A game developer with front-end and back-end experience.
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 1.9 MB Used in GitHub's Storage 
+> 📦 1.8 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -85,7 +85,7 @@ ShaderLab                1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 16/01/2023 19:16:50 UTC
+ Last Updated on 16/01/2023 19:18:36 UTC
 <!--END_SECTION:waka-->
 
 
