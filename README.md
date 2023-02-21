@@ -14,8 +14,6 @@ A game developer with front-end and back-end experience.
 
 **🐱 My GitHub Data** 
 
-> 🏆 0 Contributions in the Year 2023
- > 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
@@ -86,7 +84,7 @@ C                        1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 21/02/2023 21:16:50 UTC
+ Last Updated on 21/02/2023 21:17:19 UTC
 <!--END_SECTION:waka-->
 
 
