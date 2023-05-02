@@ -51,16 +51,18 @@ Sunday                   1029 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      3 hrs 13 mins       █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            3 hrs 13 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+TALA                     3 hrs 4 mins        ████████████████████████░   95.31 % 
+VN_BIG2                  8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+BCBMTools                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  3 hrs 13 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -76,7 +78,7 @@ C                        1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/05/2023 18:34:56 UTC
+ Last Updated on 02/05/2023 18:37:07 UTC
 <!--END_SECTION:waka-->
 
 
