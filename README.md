@@ -51,17 +51,16 @@ Sunday                   1029 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-Binary                   0 secs              ████████████████████░░░░░   80.67 % 
-C#                       0 secs              █████░░░░░░░░░░░░░░░░░░░░   19.33 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Visual Studio            0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-FileNumber               0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  0 secs              █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in C#** 
@@ -77,7 +76,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 31/01/2024 18:33:43 UTC
+ Last Updated on 31/01/2024 18:35:38 UTC
 <!--END_SECTION:waka-->
 
 
