@@ -49,16 +49,18 @@ Sunday                   1085 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+Binary                   30 mins             █████████████████░░░░░░░░   68.66 % 
+C#                       13 mins             ████████░░░░░░░░░░░░░░░░░   30.75 % 
+XML                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            43 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BaldursGate3LocalizationS43 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  43 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -74,7 +76,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/04/2024 18:33:50 UTC
+ Last Updated on 06/04/2024 18:35:52 UTC
 <!--END_SECTION:waka-->
 
 
