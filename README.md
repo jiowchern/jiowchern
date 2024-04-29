@@ -49,16 +49,17 @@ Sunday                   1085 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C++                      0 secs              █████████████████████████   100.00 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            0 secs              █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+Helldivers2Menu          0 secs              █████████████████████░░░░   82.57 % 
+helldiversmenu           0 secs              ████░░░░░░░░░░░░░░░░░░░░░   17.43 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  0 secs              █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -74,7 +75,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 29/04/2024 18:35:18 UTC
+ Last Updated on 29/04/2024 18:37:11 UTC
 <!--END_SECTION:waka-->
 
 
