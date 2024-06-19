@@ -16,6 +16,8 @@ A game developer with front-end and back-end experience.
 
 > 📦 1.9 MB Used in GitHub's Storage 
  > 
+> 🏆 0 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 52 Public Repositories 
@@ -49,16 +51,18 @@ Sunday                   1085 commits        █████░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       2 hrs 11 mins       ██████████████████████░░░   89.42 % 
+Binary                   10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 % 
+XML                      4 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.24 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            2 hrs 27 mins       █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+a5labs.buyinbuyout       2 hrs 27 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 27 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -74,7 +78,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 19/06/2024 18:35:29 UTC
+ Last Updated on 19/06/2024 18:37:03 UTC
 <!--END_SECTION:waka-->
 
 
