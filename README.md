@@ -49,16 +49,17 @@ Sunday                   1122 commits        ████░░░░░░░�
 🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+C#                       41 mins             █████████████████████░░░░   83.67 % 
+Binary                   8 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.33 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Visual Studio            50 mins             █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-No Activity Tracked This Week
+BinReplacer              50 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  50 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in C#** 
@@ -74,7 +75,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2024 18:35:41 UTC
+ Last Updated on 28/07/2024 18:38:15 UTC
 <!--END_SECTION:waka-->
 
 
