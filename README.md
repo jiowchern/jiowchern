@@ -16,6 +16,8 @@ A game developer with front-end and back-end experience.
 
 > 📦 2.0 MB Used in GitHub's Storage 
  > 
+> 🏆 6 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 56 Public Repositories 
@@ -74,7 +76,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 27/05/2025 18:55:57 UTC
+ Last Updated on 27/05/2025 18:58:09 UTC
 <!--END_SECTION:waka-->
 
 
