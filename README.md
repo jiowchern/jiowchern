@@ -10,8 +10,6 @@ A game developer with front-end and back-end experience.
 
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C343%20hrs%2035%20mins-blue)
-
 **🐱 My GitHub Data** 
 
 > 📦 2.0 MB Used in GitHub's Storage 
@@ -24,45 +22,6 @@ A game developer with front-end and back-end experience.
  > 
 > 🔑 3 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                819 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-🌆 Daytime                3444 commits        ████████░░░░░░░░░░░░░░░░░   31.68 % 
-🌃 Evening                3946 commits        █████████░░░░░░░░░░░░░░░░   36.30 % 
-🌙 Night                  2663 commits        ██████░░░░░░░░░░░░░░░░░░░   24.49 % 
-```
-📅 **I'm Most Productive on Monday** 
-
-```text
-Monday                   1970 commits        █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-Tuesday                  1375 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.65 % 
-Wednesday                1703 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.66 % 
-Thursday                 1193 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
-Friday                   1716 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.78 % 
-Saturday                 1324 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.18 % 
-Sunday                   1591 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.63 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-🐱‍💻 Projects: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in C#** 
 
 ```text
@@ -76,7 +35,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 28/07/2025 19:31:46 UTC
+ Last Updated on 30/07/2025 18:45:13 UTC
 <!--END_SECTION:waka-->
 
 
