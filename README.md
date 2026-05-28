@@ -22,6 +22,45 @@ A game developer with front-end and back-end experience.
  > 
 > 🔑 4 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                2217 commits        ██░░░░░░░░░░░░░░░░░░░░░░░   09.54 % 
+🌆 Daytime                7057 commits        ████████░░░░░░░░░░░░░░░░░   30.38 % 
+🌃 Evening                7950 commits        █████████░░░░░░░░░░░░░░░░   34.22 % 
+🌙 Night                  6008 commits        ██████░░░░░░░░░░░░░░░░░░░   25.86 % 
+```
+📅 **I'm Most Productive on Monday** 
+
+```text
+Monday                   4115 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Tuesday                  3087 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.29 % 
+Wednesday                3555 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Thursday                 2713 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.68 % 
+Friday                   3663 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.77 % 
+Saturday                 2727 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
+Sunday                   3372 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.51 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Taipei
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+
+🐱‍💻 Projects: 
+No Activity Tracked This Week
+
+💻 Operating System: 
+No Activity Tracked This Week
+```
+
 **I Mostly Code in C#** 
 
 ```text
@@ -35,7 +74,7 @@ HTML                     1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 28/05/2026 19:29:20 UTC
+ Last Updated on 28/05/2026 19:36:39 UTC
 <!--END_SECTION:waka-->
 
 
