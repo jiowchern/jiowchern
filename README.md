@@ -24,24 +24,24 @@ A game developer with front-end and back-end experience.
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
+**I'm an Early 🐤** 
 
 ```text
-🌞 Morning                683 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.22 % 
-🌆 Daytime                2004 commits        ███████░░░░░░░░░░░░░░░░░░   29.98 % 
-🌃 Evening                2159 commits        ████████░░░░░░░░░░░░░░░░░   32.30 % 
-🌙 Night                  1839 commits        ███████░░░░░░░░░░░░░░░░░░   27.51 % 
+🌞 Morning                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌆 Daytime                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌃 Evening                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+🌙 Night                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 📅 **I'm Most Productive on Monday** 
 
 ```text
-Monday                   1174 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.56 % 
-Tuesday                  874 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
-Wednesday                1049 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-Thursday                 773 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
-Friday                   1035 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
-Saturday                 778 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.64 % 
-Sunday                   1002 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Monday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Tuesday                  0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Wednesday                0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Thursday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Friday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Saturday                 0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sunday                   0 commits           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 ```
 
 
@@ -63,20 +63,14 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in C#** 
-
 ```text
-C#                       43 repos            ████████████████████░░░░░   79.63 % 
-HTML                     2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-TypeScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-JavaScript               2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
-ShaderLab                2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+
 ```
 
 
 
 
- Last Updated on 28/06/2026 19:44:31 UTC
+ Last Updated on 28/06/2026 19:45:08 UTC
 <!--END_SECTION:waka-->
 
 
